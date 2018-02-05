@@ -1,0 +1,5 @@
+rootProject.name = 'boot-app'
+
+include "app-common"
+include "app-site"
+

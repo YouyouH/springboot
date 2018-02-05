@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/132269343/app-common.iml" filepath="$PROJECT_DIR$/.idea/modules/132269343/app-common.iml" group="app-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-site.iml" filepath="$PROJECT_DIR$/.idea/modules/app-site.iml" group="app-site" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-site_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-site_main.iml" group="app-site" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-site_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app-site_test.iml" group="app-site" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1619618553/boot-app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1619618553/boot-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1619618553/boot-app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1619618553/boot-app_main.iml" group="boot-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1619618553/boot-app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1619618553/boot-app_test.iml" group="boot-app" />
+    </modules>
+  </component>
+</project>
